@@ -8,17 +8,16 @@ The novel Coronavirus (COVID-19), first identified in Wuhan, China in December 2
 
 I employed a Convolutional Neural Network (CNN) model trained on a COVID-19 Radiography dataset containing chest X-rays to detect COVID-19 infections. The model achieved approximately 98% accuracy on the validation set, demonstrating strong alignment with clinical findings from radiologists.
 
-### Results
+## Results Obtained
 
-- **Confusion Matrix**
+### Confusion Matrix
+![Confusion Matrix](Results%20Obtained/Confusion%20Matrix.png)
 
-  ![Confusion Matrix](Results Obtained/Confusion%20Matrix.png)
-- **Training and Validation Accuracy**
+### Training & Validation Accuracy
+![Training & Validation Accuracy](Results%20Obtained/Training%20&%20Validation%20Accuracy.png)
 
-  ![Training & Validation Accuracy](Results Obtained/Training%20&%20Validation%20Accuracy.png)
-- **Training and Validation Loss**
-
-  ![Training & Validation Loss](Results Obtained/Training%20&%20Validation%20Loss.png)
+### Training & Validation Loss
+![Training & Validation Loss](Results%20Obtained/Training%20&%20Validation%20Loss.png)
 
 ## Future Work
 
