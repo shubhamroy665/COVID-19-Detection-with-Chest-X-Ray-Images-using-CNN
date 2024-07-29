@@ -12,13 +12,13 @@ I employed a Convolutional Neural Network (CNN) model trained on a COVID-19 Radi
 
 - **Confusion Matrix**
 
-  ![Confusion Matrix](images/Confusion%20Matrix.png)
+  ![Confusion Matrix](Results Obtained/Confusion%20Matrix.png)
 - **Training and Validation Accuracy**
 
-  ![Training & Validation Accuracy](images/Training%20&%20Validation%20Accuracy.png)
+  ![Training & Validation Accuracy](Results Obtained/Training%20&%20Validation%20Accuracy.png)
 - **Training and Validation Loss**
 
-  ![Training & Validation Loss](images/Training%20&%20Validation%20Loss.png)
+  ![Training & Validation Loss](Results Obtained/Training%20&%20Validation%20Loss.png)
 
 ## Future Work
 
